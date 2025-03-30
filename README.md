@@ -10,3 +10,6 @@
 - [Análisis de imagen](https://github.com/LeslyeHdz13/PCD/blob/main/Tareas/An%C3%A1lisis%20de%20imagenes/Tarea_4_An%C3%A1lisis_de_Imagenes.ipynb)
 - [Clasificación de imagenes](https://github.com/LeslyeHdz13/PCD/blob/main/Tareas/An%C3%A1lisis%20de%20imagenes/Tarea%205%20CNNs.ipynb)
 
+- ### Análisis de audio
+- [Comparación de voces](https://github.com/LeslyeHdz13/PCD/blob/main/Tareas/An%C3%A1lisis%20de%20imagenes/Tarea_4_An%C3%A1lisis_de_Imagenes.ipynb)
+
