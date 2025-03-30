@@ -12,4 +12,5 @@
 
 - ### Análisis de audio
 - [Comparación de voces](https://github.com/LeslyeHdz13/PCD/blob/main/Tareas/An%C3%A1lisis%20de%20audio/TAREA_7_AUDIO.ipynb)
+- [Análisis de maullidos](https://github.com/LeslyeHdz13/PCD/blob/main/Tareas/An%C3%A1lisis%20de%20audio/TAREA_8_AUDIO_LMHB.ipynb)
 
