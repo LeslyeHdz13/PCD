@@ -14,3 +14,5 @@
 - [Comparación de voces](https://github.com/LeslyeHdz13/PCD/blob/main/Tareas/An%C3%A1lisis%20de%20audio/TAREA_7_AUDIO.ipynb)
 - [Análisis de maullidos](https://github.com/LeslyeHdz13/PCD/blob/main/Tareas/An%C3%A1lisis%20de%20audio/TAREA_8_AUDIO_LMHB.ipynb)
 
+### Proyecto Final 
+- [Clasificación de imagenes magnéticas](https://github.com/LeslyeHdz13/PCD/blob/main/PROYECTO%20FINAL/PROYECT%20FINAL%20PCD%20LMHB.pdf)
